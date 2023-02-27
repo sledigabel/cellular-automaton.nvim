@@ -54,6 +54,9 @@ https://user-images.githubusercontent.com/37074839/204104990-6ebd7767-92e9-43b9-
 
 https://user-images.githubusercontent.com/37074839/204162517-35b429ad-4cef-45b1-b680-bc7a69a4e8c7.mov
 
+### Scramble
+
+https://user-images.githubusercontent.com/1921711/221561895-6acaacf0-b3af-419b-97e3-d23ea0f4ae3e.mp4
 
 ## Implementing your own cellular automaton logic
 Using a simple interface you can implement your own cellular automaton animation. You need to provide a configuration table with an `update` function, which takes a 2D grid of cells and modifies it in place. Each cell by default consist of two fields: 
